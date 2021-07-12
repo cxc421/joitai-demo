@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-// import App from "./examples/03-svg-drawer-write-only-setter";
-import App from "./examples/test-01-drived-state-rerender";
+import App from "./examples/04-svg-file-structure.tsx";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
