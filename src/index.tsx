@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./examples/04-svg-file-structure.tsx";
+import App from "./examples/05-atoms-in-atom.tsx";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
