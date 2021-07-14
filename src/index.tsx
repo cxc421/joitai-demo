@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./examples/05-atoms-in-atom.tsx";
+import App from "./examples/06-add-selection.tsx";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
