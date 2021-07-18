@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./examples/06-add-selection.tsx";
+import App from "./examples/07-add-colors-control";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
