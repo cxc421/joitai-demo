@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./examples/09-add-undo/";
+import App from "./examples/10-add-provider";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
